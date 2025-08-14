@@ -2,7 +2,7 @@
 
 This project automates the deployment of a WordPress site on a CentOS 7-based LAMP stack (Linux, Apache, MariaDB, PHP). It includes scripts to install required packages, configure the web server, and set up the WordPress database.
 
-## Directory Structure
+##Directory Structure
 
 ```
 wordpress-lamp-setup/
